@@ -1,5 +1,6 @@
 # stock_tax
 Automatically files a tax report for stock transactions based on an PDF report or a CSV report from E-Trade.
+The modules that are used in this code are FPDF, PyPDF2, and csv. To use this program, you may need to download those modules.
 
 ** DISCLAIMER **
 
