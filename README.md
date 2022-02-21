@@ -16,3 +16,5 @@ To use these, you must first choose which type of reports you are inputting(PDF 
 The output files should be PDFs that are separated by length(short or long).
 
 Once again, this tool is not too developed, and has not been tested for many test cases, so use at your own risk.
+
+This code may be used for individual usage, but may not be used for commercial use.
