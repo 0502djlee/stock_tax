@@ -8,8 +8,6 @@ This code is not perfect. While it has worked for the tests I have used, it may 
 
 There are 2 versions that can process both PDF reports and CSV reports: "REAL_pdf_csv_python2.py" and "REAL_pdf_csv_python3.py"
 
-Sorry about the bad names.
-
 To use these, you must first choose which type of reports you are inputting(PDF or CSV), then enter the necessary information(including the names of the files). Remember to include the file name extension when entering your file names(also your files should be in the same directory as this code).
 
 The output files should be PDFs that are separated by length(short or long).
