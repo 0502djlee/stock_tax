@@ -5,6 +5,7 @@ Automatically files a tax report for stock transactions based on an PDF report o
 
 This code is not perfect. While it has worked for the tests I have used, it may not work for other reports. Use at your own risk. I am not responsible for your actions(meaning that no legal action can be taken against me).
 
+If there are any errors or mistakes, it would be great if you could inform me. I would love to improve the code, as I know it is not perfect.
 
 There are 2 versions that can process both PDF reports and CSV reports: "REAL_pdf_csv_python2.py" and "REAL_pdf_csv_python3.py"
 
