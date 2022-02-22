@@ -1,5 +1,5 @@
 # stock_tax
-Automatically files a tax report for stock transactions based on an PDF report or a CSV report from E-Trade.
+Reads a PDF report or a CSV report from E-Trade and creates a form that is similar to form 8949 as described in the instructions for form 8949(exception 2).
 
 The modules that are used in this code are FPDF, PyPDF2, and csv. To use this program, you may need to download those modules.
 
